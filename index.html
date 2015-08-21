@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+	<link rel="icon" href="./favicon.ico" type="image/x-icon">
+	<title>MIBS | Turn your idea into a plan</title>
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,700italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+	<script>
+		$(function() {
+		  $('a[href*=#]:not([href=#])').click(function() {
+		    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		      var target = $(this.hash);
+		      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		      if (target.length) {
+		        $('html,body').animate({
+		          scrollTop: target.offset().top
+		        }, 1000);
+		        return false;
+		      }
+		    }
+		  });
+		});
+
+
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+	</script>
+
+	<script>
+	  // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  // ga('create', 'UA-61422829-2', 'auto');
+	  // ga('send', 'pageview');
+
+	</script>
+
+
+</head>
+<body id="top">
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">MIBS</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">About</a></li>
+        <li><a href="#">Team</a></li>
+        <li><a href="#">Faculty</a></li>
+        <li><a href="#">Links</a></li>
+        <li><a href="#">Student Guide</a></li>
+        <!--<li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul> 
+        </li>-->
+      </ul>
+
+<!--       <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul> -->
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+
+<div class="container-fluid">
+
+	<section class="row" id="hero">
+
+		<div class="col-sm-6 col-sm-offset-3" style="margin-top:50px">
+			<div class="hero-text"><!-- 
+				<h1>Turn your idea into a plan</h1><br />
+				<h4 class="as-secondary-white">
+					MIBS is a space to <strong>brainstorm</strong>, a tool to <strong>evaluate</strong>, and a community to <strong>pitch</strong> the plan for your next big idea.
+				</h3>
+			</div>
+			<a href="#how" class="as-button as-button-purple">Learn More</a>
+ -->
+			<img src="./images/landing.png" class="img-responsive hero-img"/>
+		</div>
+	</section>
+
+	<section class="row as-pre-features">
+		
+		<div class="col-sm-6 col-sm-offset-3">
+			<h2 class="as-h-question" id="how">How does MIBS do it?</h2>
+			<hr />
+		</div>
+
+	</section>
+	
+	<section class="row as-features">
+		
+		<div class="col-sm-2 col-sm-offset-3 col-md-3 col-md-offset-2 col-lg-3 col-lg-offset-2">
+			<h4><i class="glyphicon glyphicon-queen"></i> Fantastic Prompts</h4>
+			<p>
+				Provides personally curated, thought provoking questions to help you brainstorm, assess and simplify getting your idea out of your head and on to paper.  
+			</p>
+		</div>
+
+		<div class="col-sm-2 col-md-3 col-lg-3">
+			<h4><i class="glyphicon glyphicon-stats"></i> Tested Methods</h4>
+			<p>
+				Prompts based on years of research in various evaluation techniques such as Porter's Five Forces, SWOT Analysis and Kipling's Method, etc.
+			</p>
+		</div>
+
+		<div class="col-sm-2 col-md-3 col-lg-3">
+			<h4><i class="glyphicon glyphicon-education"></i> Abundant Resources</h4>
+			<p>
+				Provides you with fresh resources to help you in brainstorming, stratergic thinking and decision making as well as technical resources to help you implement and bring your idea into reality.
+			</p>
+		</div>
+
+	</section>
+	
+	<section class="row as-features">
+		<div class="col-sm-2 col-sm-offset-3 col-md-3 col-md-offset-2 col-lg-3 col-lg-offset-2">
+			<h4><i class="glyphicon glyphicon-grain"></i> Supportive Environment</h4>
+			<p>
+				Once you are ready to share your idea with the world, publish your idea to the pitching platform to get real feedback from other innovators.
+			</p>
+		</div>
+		
+		<div class="col-sm-2 col-md-3 col-lg-3">
+			<h4><i class="glyphicon glyphicon-duplicate"></i> Attractive Business Plans</h4>
+			<p>
+				Generates a beautiful one-page plan to help you quickly and confidently share your vision with your team, an angel, VC or a potential partner.
+			</p>
+		</div>
+
+		<div class="col-sm-2 col-md-3 col-lg-3">
+			<h4><i class="glyphicon glyphicon-flash"></i> Powerful Realtime</h4>
+			<p>
+				Collaborate with a partner on your ideas. In realtime. Powered by Firebase.
+			</p>
+		</div>
+
+	</section>
+
+	<section class="row text-center">
+		<div class="col-sm-6 col-sm-offset-3">
+			<h2 class="as-h-question" id="as-notification">Intrigued? Be notified when MIBS launches. </h2>
+		<hr />
+
+			<p>
+				Follow us and we will send you a personalized tweet when we launch!
+				<br /><br />
+				<a href="https://twitter.com/MIBSxyz" class="twitter-follow-button" data-show-count="false" data-size="large">
+					Follow @MIBSxyz
+				</a>
+				
+				<br />
+				<form action="//xyz.us11.list-manage.com/subscribe/post?u=1a0664361db2cb9aeba092b49&amp;id=991aac704a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					Prefer to use email? <br />
+					<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="you@yourwebsite.com">
+					<!-- emppty section for bots -->
+					<div style="position: absolute; left: -5000px;"><input type="text" name="b_1a0664361db2cb9aeba092b49_991aac704a" tabindex="-1" value=""></div>
+					<input type="submit" value="Get Notified" name="subscribe" id="mc-embedded-subscribe" class="as-button-invert">
+				</form>
+			</p>
+			<hr />
+		</div>
+	</section>
+<footer class="col-sm-6 col-sm-offset-3 as-footer" style="margin-top:5%">
+	
+	Made with &#9829; in Montreal by <a href="https://twitter.com/zafarali" target="_blank">Zafarali</a> and <a href="https://twitter.com/imranj131" target="_blank">Imran</a>
+
+</footer>
+</div>
+
+
+</body>
+
+</html>
