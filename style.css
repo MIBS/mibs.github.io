@@ -210,3 +210,9 @@ textarea {
 .navbar-default .navbar-nav>li>a{
   color:white;
 }
+
+.first-section {
+  padding-top:100px;
+  height:500px;  
+}
+
