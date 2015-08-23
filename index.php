@@ -4,16 +4,16 @@
 
 	<section class="row" id="hero">
 
-		<div class="col-sm-6 col-sm-offset-3" style="margin-top:50px">
-			<div class="hero-text"><!-- 
-				<h1>Turn your idea into a plan</h1><br />
-				<h4 class="as-secondary-white">
-					MIBS is a space to <strong>brainstorm</strong>, a tool to <strong>evaluate</strong>, and a community to <strong>pitch</strong> the plan for your next big idea.
-				</h3>
-			</div>
-			<a href="#how" class="as-button as-button-purple">Learn More</a>
- -->
+		<div class="col-sm-6 col-sm-offset-3 col-lg-6 col-lg-offset-3">
+			<div class="hero-text">
+
 			<img src="./images/landing.png" class="img-responsive hero-img"/>
+		
+			<p class="center">
+				<a href="#more">
+					<i class="fa fa-angle-double-down"> </i>
+				</a>
+			</p>
 		</div>
 	</section>
 
@@ -28,7 +28,7 @@
 	
 	<section class="row as-features">
 		
-		<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+		<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3" id="more">
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

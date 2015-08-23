@@ -200,11 +200,17 @@ textarea {
   }  
 }
 
-.hero-text{
-  margin-top: 40px;
-}
 .hero-img{
   margin-top: 125px;
+}
+
+@media (min-width: 770px){
+  .hero-img{
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width:500px;
+    max-height:auto;
+  }
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -212,7 +218,7 @@ textarea {
 }
 
 .first-section {
-  padding-top:100px;
+  padding-top:50px;
   height:500px;  
 }
 
@@ -220,9 +226,37 @@ textarea {
   background-color:#3F888E;
 }
 
-.person-card {
+.person-card, .social-card {
   display:inline-block;
   padding:5px;
   height:120px;
   max-width:150px;
+}
+
+.sponsor-card,.social-card{
+  display:block;
+  height:50px;
+  max-width:100%;
+}
+
+.sponsor-card{
+  display:inline-block;
+  padding:5px;
+}
+p.center{
+  margin: 0 auto;
+  width:50px;
+  font-size:5em;
+}
+
+footer{
+  position:fixed;
+  bottom:-2px;
+  margin:0 auto;
+  width:100%;
+  /*left: ;*/
+  color:white;
+  left:0;
+  background-color:#68a8ad;
+  /*right:50%;*/
 }
