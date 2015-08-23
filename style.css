@@ -216,3 +216,13 @@ textarea {
   height:500px;  
 }
 
+.navbar-collapse {
+  background-color:#3F888E;
+}
+
+.person-card {
+  display:inline-block;
+  padding:5px;
+  height:120px;
+  max-width:150px;
+}
