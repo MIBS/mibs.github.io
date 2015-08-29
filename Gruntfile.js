@@ -5,10 +5,13 @@ grunt.initConfig({
     default: {
       options: {
         processLinks: true,
-        haltOnError: false
+        haltOnError: false,
+        htmlhint: {
+            'attr-value-double-quotes': false
+        }
       },
       files: [
-        {expand: true, cwd: './uncompiled', src: ['*.php'], dest: '../', ext: '.html' }
+        {expand: true, cwd: './uncompiled/', src: ['*.php'], dest: './', ext: '.html' }
       ]
     }
   },
