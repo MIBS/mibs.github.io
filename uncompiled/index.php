@@ -1,4 +1,4 @@
-<? include 'header.html'; ?>
+<?php include 'header.php'; ?>
 
 <div class="container-fluid">
 
@@ -55,11 +55,11 @@
 				</a>
 				 -->
 				<!-- <br /> -->
-				<form action="//xyz.us11.list-manage.com/subscribe/post?u=1a0664361db2cb9aeba092b49&amp;id=991aac704a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<form action="//mcgill.us9.list-manage.com/subscribe/post?u=628815290e13ed7006948fc5e&amp;id=d76d5b1fb1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					
 					<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="you@yourwebsite.com">
 					<!-- emppty section for bots -->
-					<div style="position: absolute; left: -5000px;"><input type="text" name="b_1a0664361db2cb9aeba092b49_991aac704a" tabindex="-1" value=""></div>
+					<div style="position: absolute; left: -5000px;"><input type="text" name="b_628815290e13ed7006948fc5e_d76d5b1fb1" tabindex="-1" value=""></div>
 					<input type="submit" value="Get Notified" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
 				</form>
 			</p>
@@ -67,4 +67,4 @@
 		</div>
 	</section>
 
-<? include 'footer.html'; ?>
+<?php include 'footer.php'; ?>

@@ -16,7 +16,7 @@
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,700italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="/style.css">
 	
 	<script>
 		$(function() {
@@ -67,10 +67,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="index.php#more">About</a></li>
-        <li><a href="team.php">Team</a></li>
-        <li><a href="faculty.php">Faculty</a></li>
-        <li><a href="links.php">Links</a></li>
+        <li><a href="./index.php#more">About</a></li>
+        <li><a href="./team.php">Team</a></li>
+        <li><a href="./faculty.php">Faculty</a></li>
+        <li><a href="./links.php">Links</a></li>
         <li><a href="#">Student Guide</a></li>
 
       </ul>

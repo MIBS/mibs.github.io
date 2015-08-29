@@ -1,0 +1,8 @@
+{
+  "name": "mibs-website",
+  "author": "Zafarali Ahmed <zafarali.ahmed@gmail.com>",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-php2html": "^0.2.0"
+  }
+}

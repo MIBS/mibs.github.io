@@ -1,4 +1,4 @@
-<? include 'header.html'; ?>
+<?php include 'header.php'; ?>
 <div class="container-fluid">
 	<section class="row first-section" id="faculty">
 	<div class="col-md-8 col-md-offset-2">
@@ -54,4 +54,4 @@
 	</div>
 	</section>
 </div>
-<? include 'footer.html'; ?>
+<?php include 'footer.php'; ?>
