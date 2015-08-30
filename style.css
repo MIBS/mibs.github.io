@@ -68,7 +68,7 @@ textarea {
 }
 
 .navbar  {
-  background-color: #3F888E;
+  background-color: #6A9AD2;
   color:#FFFFFF;
   border-radius: 0px;
   border-color:rgba(0,0,0,0);
@@ -194,7 +194,7 @@ textarea {
 }
 @media (max-width: 770px) {
   .navbar{
-    background-color: #3F888E;
+    background-color: #6A9AD2;
     z-index: 500;
     height:40px;
   }  
@@ -223,7 +223,7 @@ textarea {
 }
 
 .navbar-collapse {
-  background-color:#3F888E;
+  background-color:#6A9AD2;
 }
 
 .person-card, .social-card {
@@ -257,6 +257,11 @@ footer{
   /*left: ;*/
   color:white;
   left:0;
-  background-color:#68a8ad;
+  background-color:#6A9AD2;
   /*right:50%;*/
 }
+
+#more{
+  text-align:justify;
+}
+
