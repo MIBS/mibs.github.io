@@ -5,50 +5,46 @@
 		<h2>
 			Find us on the web
 		</h2>
-
+		<hr />
 		<div class="social-card">
 			<b> McGill Integrative Bioscience Society </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
+			<a href="https://www.facebook.com/groups/McGillIntegrativeBioscienceSociety/"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 		<div class="social-card">
 			<b> Quantitative Biology </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
+			<a href="https://www.facebook.com/groups/638896479563255/"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 		<div class="social-card">
-			<b> Computer Science and Biology </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
+			<b> Joint Computer Science and Biology </b><br />
+			<a href="#https://www.facebook.com/groups/190000274452880/"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 		<div class="social-card">
-			<b> Math and Biology </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
+			<b> Joint Math and Biology </b><br />
+			<a href="https://www.facebook.com/groups/189828997803341/"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 		<h2>
 			Affiliate Organizations
 		</h2>
+		<hr />
 		<div class="social-card">
-			<b> SUMS </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
-			<a href="#LINK HERE"><i class="fa fa-globe"></i> Web</a>
+			<b> McGill Biology Students Union </b><br />
+			<a href="http://mbsu.sus.mcgill.ca/"><i class="fa fa-facebook"></i> Facebook</a>
+			<a href="https://www.facebook.com/groups/191673224285585/?fref=ts"><i class="fa fa-globe"></i> Web</a>
 		</div>
 		<div class="social-card">
-			<b> MBSU </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
-			<a href="#LINK HERE"><i class="fa fa-globe"></i> Web</a>
+			<b> Computer Science Undergraduate Society </b><br />
+			<a href="https://www.facebook.com/myCSUS?fref=ts"><i class="fa fa-facebook"></i> Facebook</a>
+			<a href="http://mcgill-csus.github.io/"><i class="fa fa-globe"></i> Web</a>
 		</div>
 		<div class="social-card">
-			<b> MBSU </b><br />
-			<a href="#LINK HERE"><i class="fa fa-facebook"></i> Facebook</a>
-			<a href="#LINK HERE"><i class="fa fa-globe"></i> Web</a>
+			<b> Society of Undergraduate Mathematics Students </b><br />
+			<a href="https://www.facebook.com/sumsmcgill"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 
 		<h2>
 			Sponsors
 		</h2>
-		<div class="sponsor-card">
-			<a href="#LINK HERE"><img src="http://research.microsoft.com/a/i/c/segoe_msr_logo.png" class="img-responsive"></a>
-		</div>
-		<div class="sponsor-card">
-			<a href="#LINK HERE"><img src="http://research.microsoft.com/a/i/c/segoe_msr_logo.png" class="img-responsive"></a>		</div>
+		<hr />
 
 
 	</div>

@@ -30,14 +30,15 @@
 		
 		<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3" id="more">
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				Founded in September 2014 by a group of passionate students, the McGill Integrative Bioscience Society is an student association for our integrative bioscience students. 
+				These are students who are quantitatively approach the problems posed by the life sciences through the application of physical sciences. 
+				These are students usually enrolled in the Quantitative Biology, Joint Computer Science and Biology, and Joint Biology and Mathematics programs. 
+				Even if you aren't enrolled in these programs, but follow this philosophy you're welcome to join. 
+			</br></br>
+			So what do we do? We help advocate for these programs and foster an undergraduate community with those who share this philosophy. 
 			</p>
 		</div>
+
 
 
 	</section>
@@ -46,7 +47,6 @@
 		<div class="col-sm-6 col-sm-offset-3">
 			<h2 class="as-h-question" id="as-notification">Intrigued? Sign up for our newsletter. </h2>
 		<hr />
-
 			<p>
 				<!-- Follow us and we will send you a personalized tweet when we launch!
 				<br /><br />
@@ -63,6 +63,21 @@
 					<input type="submit" value="Get Notified" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
 				</form>
 			</p>
+
+			<h2>Get in touch directly.</h2>
+				<ul class="list-inline banner-social-buttons">
+					<li>
+				    	<a href="mailto:mbcillbiosciencestudents@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw" target="_blank"></i></a>
+					</li>
+                    <li>
+                        <a href="https://www.facebook.com/groups/McGillIntegrativeBioscienceSociety/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw" target="_blank"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/MIBS" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw" target="_blank"></i></a>
+                    </li>
+
+                </ul>
+			
 			<hr />
 		</div>
 	</section>

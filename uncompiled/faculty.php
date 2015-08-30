@@ -9,48 +9,41 @@
 			Faculty	
 		</h2>
 
+		<hr />
+
 		<div class="person-card">
 
 			<img src="http://aguada.biol.mcgill.ca/photos/head_of_the_thing.png" class="img-circle" style="height:100px; width:100px"> 
-			<h4>JACKIE VOGEL</h4>
+			<h4>Jackie Vogel</h4>
 			<p>
 				Head of the Quantitative Biology Program
 			</p>
 		</div>
 		<div class="person-card">
 
-			<img src="http://aguada.biol.mcgill.ca/photos/head_of_the_thing.png" class="img-circle" style="height:100px; width:100px">
+			<img src="http://biology.mcgill.ca/undergrad/photos/nancy_nelson.jpg" class="img-circle" style="height:100px; width:100px">
 
-			<h4>JACKIE VOGEL</h4>
+			<h4>Nancy Nelson</h4>
 			<p>
-				Head of the Quantitative Biology Program
+				Biology Departmental Advisor
 			</p>
 		</div>
 		<div class="person-card">
 
-			<img src="http://aguada.biol.mcgill.ca/photos/head_of_the_thing.png" class="img-circle" style="height:100px; width:100px">
-			<h4>JACKIE VOGEL</h4>
+			<img src="https://www.cs.mcgill.ca/static/img/profpic/blanchette.jpg" class="img-circle" style="height:100px; width:100px">
+			<h4>Mathieu Blanchette</h4>
 			<p>
-				Head of the Quantitative Biology Program
+				Joint Computer Science and Biology Program Coordinator
 			</p>
 		</div>
 		<div class="person-card">
 
-			<img src="http://aguada.biol.mcgill.ca/photos/head_of_the_thing.png" class="img-circle" style="height:100px; width:100px">
-			<h4>JACKIE VOGEL</h4>
+			<img src="http://falco.biol.mcgill.ca/index_files/IMG_0534.jpg" class="img-circle" style="height:100px; width:100px">
+			<h4>Frederic Guichard</h4>
 			<p>
-				Head of the Quantitative Biology Program
+				Joint Biology and Mathematics Program Coordinator
 			</p>
 		</div>
-		<div class="person-card">
-
-			<img src="http://aguada.biol.mcgill.ca/photos/head_of_the_thing.png" class="img-circle" style="height:100px; width:100px">
-			<h4>JACKIE VOGEL</h4>
-			<p>
-				Head of the Quantitative Biology Program
-			</p>
-		</div>
-
 
 	</div>
 <!-- @TODO: make these into boxes which automatically resize and rearrage as necessary -->
