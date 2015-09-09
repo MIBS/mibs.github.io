@@ -31,10 +31,9 @@
 		<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3" id="more">
 			<p>
 				Founded in September 2014 by a group of passionate students, the McGill Integrative Bioscience Society is an student association for our integrative bioscience students. 
-				These are students who are quantitatively approach the problems posed by the life sciences through the application of physical sciences. 
-				These are students usually enrolled in the Quantitative Biology, Joint Computer Science and Biology, and Joint Biology and Mathematics programs. 
-				Even if you aren't enrolled in these programs, but follow this philosophy you're welcome to join. 
-			</br></br>
+				These are students who quantitatively approach the problems posed by the life sciences through the application of physical sciences. 
+				These are students usually enrolled in the Quantitative Biology, Joint Computer Science and Biology, Joint Biology and Mathematics, Physics and Physiology and Physiology and Math programs. 
+				Even if you aren't enrolled in these programs, but follow this philosophy you're welcome to join. 			</br></br>
 			So what do we do? We help advocate for these programs and foster an undergraduate community with those who share this philosophy. 
 			</p>
 		</div>
