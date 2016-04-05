@@ -72,6 +72,7 @@
         <li><a href="./faculty.php">Faculty</a></li>
         <li><a href="./links.php">Links</a></li>
         <li><a href="./studentguide.html">Student Guide</a></li>
+        <li><a href="./symposium.html">Symposium</a></li>
 
       </ul>
 
