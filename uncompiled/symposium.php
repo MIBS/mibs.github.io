@@ -3,15 +3,14 @@
 	<section class="row first-section" id="symposium">
 		<div class="col-md-12 text-center">
 			<h2>
-				Integrative Bioscience Undergraduate Research Symposium
+				2016 Integrative Bioscience Undergraduate Research Symposium 
 			</h2>
 		</div>
 
 			<div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3" id="more">
 			<center><a href="./images/symposium2016.jpg" target="_blank"><img src="./images/symposium2016.jpg" style="height:350px;"></a></center>
 			<p>
-				MIBS held their inaugural undergraduate research symposium on April 4th 2016. 
-				Talks were held at the Thomson House. Food and Drinks were served, as well as pizza! Below is the speakers list:
+				MIBS held their inaugural undergraduate research symposium on April 4th 2016. Talks were held at Thomson House. A variety of food and drinks were served, including pizza! Below is the speakers list:
 			</p>
 
 			<ul>
