@@ -16,7 +16,7 @@
 		</div>
 		<div class="social-card">
 			<b> Joint Computer Science and Biology </b><br />
-			<a href="#https://www.facebook.com/groups/190000274452880/"><i class="fa fa-facebook"></i> Facebook</a>
+			<a href="https://www.facebook.com/groups/190000274452880/"><i class="fa fa-facebook"></i> Facebook</a>
 		</div>
 		<div class="social-card">
 			<b> Joint Math and Biology </b><br />
