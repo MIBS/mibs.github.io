@@ -31,6 +31,10 @@
 
 	<section class="row as-features">
 		<p class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 text-center">
+			Images can be found on <a href="https://www.facebook.com/media/set/?set=a.1109677685768091.1073741827.950206145048580&type=1&l=dbbf535f0d">Facebook</a>
+			<br />
+			<br />
+		</p><p class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 text-center">
 			More information at the <a href="https://www.facebook.com/events/808141885996403/">Facebook event</a>
 			<br />
 			<br />
