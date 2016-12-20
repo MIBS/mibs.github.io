@@ -264,7 +264,9 @@ footer{
   background-color:#6A9AD2;
   /*right:50%;*/
 }
-
+.main-content{
+  padding-bottom: 10%;
+}
 #more{
   text-align:justify;
 }
